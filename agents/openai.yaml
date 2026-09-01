@@ -1,6 +1,0 @@
-interface:
-  display_name: "初期投资法律尽调"
-  short_description: "对话确认行业和尽调重点后，生成初步尽调清单Word"
-  default_prompt: "Use $early-investment-legal-dd to review this BP, confirm the industry in chat, present diligence focus points in chat for client confirmation, and only after confirmation create one verified initial document request Word file."
-policy:
-  allow_implicit_invocation: true
