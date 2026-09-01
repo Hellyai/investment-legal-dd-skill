@@ -1,0 +1,6 @@
+interface:
+  display_name: "完整投资尽调法律"
+  short_description: "先分析、确认后补清单，或按门槛及客户指令出完整版报告"
+  default_prompt: "Use $full-investment-legal-dd to analyze returned materials and first create one verified focus-and-issues Word file; wait for client confirmation before creating the supplemental request Word file. If the completion gates are met or the client expressly instructs, create one formally complete, evidence-traceable legal due diligence report Word file."
+policy:
+  allow_implicit_invocation: true
